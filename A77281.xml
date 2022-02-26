@@ -1,0 +1,247 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to His Excellencie Sir Thomas Fairfax from Captaine Lieutenant Bray, concerning the charge and proceedings against him at a Councell of Warre, about the late differences in the Armie. With some strange discoveries or predictions by the said Capt. Leiut. Bray, in relation to the Generall, and some eminent Commanders of the Armie. Also a Letter of the Parliaments Commissioners, presenting the 4. bills to his Majesty, at the Isle of Wight, and his Majesties answer to the same. Together with the Declaration of the Commissioners of Scotland to his Majesty, against the 4. bills presented by the Parliaments Commissioners. Also a true relation of the designe and mutynie in the Isle of Wight, for carrying away of the King, the prevention thereof, and the Order of Parliament for securing hia [sic] Majesties person in Caresbrook Castle.</title>
+            <author>Bray, William, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77281</idno>
+            <idno type="STC">Wing B4305</idno>
+            <idno type="STC">Thomason E421_27</idno>
+            <idno type="STC">ESTC R204775</idno>
+            <idno type="EEBO-CITATION">99864237</idno>
+            <idno type="PROQUEST">99864237</idno>
+            <idno type="VID">161376</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77281)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161376)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 66:E421[27])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to His Excellencie Sir Thomas Fairfax from Captaine Lieutenant Bray, concerning the charge and proceedings against him at a Councell of Warre, about the late differences in the Armie. With some strange discoveries or predictions by the said Capt. Leiut. Bray, in relation to the Generall, and some eminent Commanders of the Armie. Also a Letter of the Parliaments Commissioners, presenting the 4. bills to his Majesty, at the Isle of Wight, and his Majesties answer to the same. Together with the Declaration of the Commissioners of Scotland to his Majesty, against the 4. bills presented by the Parliaments Commissioners. Also a true relation of the designe and mutynie in the Isle of Wight, for carrying away of the King, the prevention thereof, and the Order of Parliament for securing hia [sic] Majesties person in Caresbrook Castle.</title>
+                  <author>Bray, William, 17th cent.</author>
+                  <author>Scotland. Parliament.</author>
+               </titleStmt>
+               <extent>6, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Francis Leach,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Anno Dom. 1647 [i.e., 1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Annotation on Thomason copy: "Jan: 3".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bray, William, 17th cent. --  Trials, litigation, etc. --  Early works to 1800.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Treaties --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161376:1" rendition="simple:additions"/>
+            <p>A LETTER To His EXCELLENCIE SIR Thomas Fairfax From Captaine Leiutenant <hi>BRAY,</hi> concerning the Charge and proceedings againſt him at a Councell of Warre, about the late di<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>erences in the ARMIE.</p>
+            <p>With ſome ſtrange diſcoveries or Predictions by the ſaid Capt. Leiut. <hi>BRAY,</hi> in relation to the Gene<g ref="char:EOLhyphen"/>rall, and ſome eminent Commanders of the ARMIE.</p>
+            <p>Alſo a Letter of the Parliaments Commiſſioners, preſen<g ref="char:EOLhyphen"/>ting the 4. Bills to his Majeſty, at the Iſle of <hi>Wight,</hi> and, his Majeſties An<g ref="char:EOLhyphen"/>ſwer to the ſame. Together with the Declaration of the Commiſſioners of SCOTLAND to his Majeſty, againſt the 4. Bills preſented by the PARLIAMENTS COMMISSIONERS.</p>
+            <p>Alſo a true relation of the deſigne and mutynie in the Iſle of <hi>Wight,</hi> for carrying away of the King, the prevention thereof, and the Order of Parliament for ſecuring hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Majeſties perſon in <hi>Carisbrook</hi> Caſtle.</p>
+            <p>LONDON Printed By <hi>Francis Leach Anno Dom.</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:161376:2"/>
+            <pb n="3" facs="tcp:161376:2"/>
+            <head>A Letter to his Excellency Sir <hi>Tho<g ref="char:EOLhyphen"/>mas Fairfax,</hi> from Captaine Lieu<g ref="char:EOLhyphen"/>tenant <hi>Bray</hi> &amp;c.</head>
+            <opener>May it pleaſe your Excellency</opener>
+            <p>I Can give you the title, but ſo that I muſt ſuperlatively ac<g ref="char:EOLhyphen"/>knowledge the higheſt I, have written to you in the in<g ref="char:EOLhyphen"/>tegrity of my heart, I honour you ſo far as the Lord will make mee to honor you, In the buſineſſe for which I was impriſoned, this is my comfort, that I have the teſtimony of a cleere conſcience, and I did continue with the Regiment in their diſtempretures and diſſatisfactions out of received and ac<g ref="char:EOLhyphen"/>knowledged conſcientious grounds, and principles, according to my Letter to your Excellency in the time of the diſtempature, I have made my laſt plea to you and your preſent Counſell of War, and in it I have demonſtrated (as in my judgement) that the preſent dealings with mee, paſſes an inevitable cenſure upon your ſelfe, I have yet a little hopes that you have a minde or deſire to be ſubject unto truth, for indeed truth and righteouſeneſſe is as purely Lord of you as it is of mee, or any one elſe to judge and condemne: I was almoſt three weeks impriſoned before I had any charge exhibited, which is contrary to the forme of your owne proceedings, I have declared in my narrative, the explana<g ref="char:EOLhyphen"/>tions and naturall cauſes of the Regiments diſtemper which if you or any godly impartiall man do well weigh, you will finde that fawning temporizing perſon had no juſt cauſe to father the diſtemper upon mee, becauſe I own the Agreement of the people in my judgement, which ſome Officers of the Regiment ſubſcri<g ref="char:EOLhyphen"/>bed
+<pb n="4" facs="tcp:161376:3"/> at St <hi>Albans,</hi> and ſuch who have carried themſelves <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſtrouſly, perfideouſly and treacherouſly towards mee in charging mee with A private diſcourſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and judgement, as in my plea is expreſſed, and who did not carry themſelves in an honeſt conſcientious care to your Excellencie and the Regi<g ref="char:EOLhyphen"/>ment as is expreſſed in my plea God hath appointed a day wherein he will judge the word in righteouſneſſe at which time wicked deeds ſhall have no glory in power and rules, God will deſtroy <hi>Machavell</hi> more and more even by a Law which is like unto fire which ſhall enter into the inmoſt parts. God will re<g ref="char:EOLhyphen"/>compence vengeance into the boſome of oppreſſers or of thoſe that conſpire in power, [nay indeed your power] to perſecute, defame and deſtroy, I am, and have been very much troubled [not ſo much in relation to my ſelfe, for the Lord upholds me in integrity and much comfort in more then an ordinary care] for you and the Lord hath acquainted mee in my converſation with him in an inward teſtimony. That I muſt tell you theſe words. viz. <hi>That unles his hand be againſt ſome that are about you, and his underſtandings be againſt their underſtandings and his mouth againſt their mouth your power ſhall not be eſtab<g ref="char:EOLhyphen"/>liſhed in righteouſneſſe.</hi> I did deſire of God, whither it ſhould be ſo with you, and <hi>I</hi> heard an abſolute voice anſwearing in theſe words. <hi>It is the pure and and un-defiled voice, and he ſaid further how wouldſt thou have comfort if my voice were not near thee, But I feare to write it ſo poſitively, but God ſaid, feare not, for this ſhall be a token to thee that I give thee power in particular to call thee my God.</hi>
+            </p>
+            <p>But <hi>I</hi> ſaid <hi>I</hi> am weake and ſinfull as conſidered in the fleſh, but he ſaid thou art certainly refining and to be gloriouſly refined, what a ſad thing will it be when the Lord will make in<g ref="char:EOLhyphen"/>quiſition for them that have been hurt unjuſtly by the unrighte<g ref="char:EOLhyphen"/>ouſneſſe of men who are ſuffered to walke in divers pleaſurable waies to the deſtruction of others: This is my comfort that I can reaſonably, really ſay whatſoever men or Devills may think of mee, though I am not without temptation, that I had rather be <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d to the ſlaughter, then betray my judgement and underſtan<g ref="char:EOLhyphen"/>ding
+<pb n="5" facs="tcp:161376:3"/> to my owne or any mans luſt. I have read of certaine <hi>Al<g ref="char:EOLhyphen"/>ſachins</hi> chiefe Judges in <hi>Italy</hi> that were to determine cauſes, and were to have one onely Cauſe ſet downe, and were never to know the perſon as Plaintiffe and Defendant, that they might do judgement without partiality; How excellently would you appeare if you would or could declare your ſelfe poſitively to owne the God of <hi>Shadrach Meſhach,</hi> and <hi>Abednego,</hi> and not to owne faces countenances, titles and perſons, but truth equally and impartially to all; you ſhould as well heare the meaneſt Souldier or Officer as well as your owne heart, or anie perſon about you, ſuredlie you cannot choſe but think you may (as well as other powers of old) have Aſtrologers, Magitians, Southſayers, that would betray all thoſe that would not ſubmit to their ſubſcrip<g ref="char:EOLhyphen"/>tion, or to the Image that they have ſet up, &amp; they would have the furnace heat ſeaven times hotter then before, rather then to looſe the deſigne, and J cannot read that they could find out 3. men in the province of <hi>Babilon</hi> that looked another way: <hi>I</hi> have deſired you to hear my buſines your ſelfe in a former Letter but I am ſatisfied that God hath not made you free to it, I alſo deſi<g ref="char:EOLhyphen"/>red a publique audience (though not on a Scaffold as ſome have faied) God condiſcends in ſome nature or other to the meaneſt creature, your higheſt glory will be (if God ſhall make you free) to condiſcend to heare any one, and ſee to come downe from your throne or power and manifeſt you owne the God of the whole earth who will certainly judge the world, I have read of a heathen King <hi>Artaxerxes</hi> who had a <hi>Hammon</hi> with him that took in hand to practice againſt thoſe that did the King good, that were moſt faithfull to him, and at length God made the King ſee and confeſſe the practiſes of <hi>Haman,</hi> that he was lif<g ref="char:EOLhyphen"/>ted up with the glorious words of lewd perſons (that were ne<g ref="char:EOLhyphen"/>ver good) who thought to have ſcaped the juſtice of God (be<g ref="char:EOLhyphen"/>cauſe they were great] who ſeeth all things and hateth evill which cauſeth many in authority to be partakers in innocent bloud, and to be enwrapped in remediles calamities beguiling with falſh<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d and deceipt the innocency and goodneſſe of Prin<g ref="char:EOLhyphen"/>ces and therefore <hi>Artaxerxes</hi> did take care that his Kingdome might be quiet and peaceable by changing purpoſes, judging
+<pb n="6" facs="tcp:161376:4"/> things that are evident by more equall proceedings, This <hi>Haman</hi> was a Stranger <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd a <hi>Macedonian</hi> diſcended from the <hi>Perſian</hi> bloud yet by many cunning deceipts ſought the deſtruction of poore <hi>Mordecai,</hi> ſo I leave you to God before whom you, and I are equally naked and bare and ſhall appear before his judgment ſeat with this ſincere acclamation, <hi>Iuſtice, Iuſtice</hi> [for my ſelfe and others] impartially and ſo I reſt your</p>
+            <closer>
+               <signed>Faithfull Servant in the ſervice of love (which is the beſt ſervice) during the will of God William Bray.</signed>
+               <dateline>
+                  <hi>From the cuſtody of the Marſhall Generall,</hi> 
+                  <date>22. Decemb. 1647.</date>
+               </dateline>
+            </closer>
+            <trailer>To his Excellency Sir <hi>Thomas Fairfax</hi> theſe preſent.</trailer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:161376:4"/>
+            <head>A Letter of the preſenting the 4 Bills to his Majeſty at the Iſle of Wight by the Parliaments Commiſioners.</head>
+            <opener>
+               <salute>MY LORD</salute>
+            </opener>
+            <p>IN perſuance of the Inſtructions, and Commands from the Parliament, <hi>I</hi> did with the other Commisſioners, preſent the Bills and Propoſitians to His Maieſtie at two of the clock this afternoone. The King was then pleaſed to ſay</p>
+            <p>
+               <hi>He was aſſured that we could not expect a preſent anſwer, but he would take the ſame into conſideration, and give his Anſwer within few dayes.</hi>
+            </p>
+            <p>This is all the accompt I can returne your Lordſhip at preſent, which I deſire you will be pleaſed to communicate to the Houſe of Peeres, from</p>
+            <closer>
+               <dateline>
+                  <hi>From Newport</hi> 
+                  <date>
+                     <hi>December 24 1647.</hi>
+                  </date>
+               </dateline>
+               <signed>Your moſt humble and affectionate ſervant <hi>B. DENBIGH</hi>
+               </signed>
+            </closer>
+            <trailer>To the Right Honourable, the Earle of <hi>Mancheſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r</hi> Speaker of the Houſe of Peers, <hi>pro<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>pore.</hi>
+            </trailer>
+         </div>
+         <div type="declaration">
+            <pb facs="tcp:161376:5"/>
+            <head>A Declaration of the Commiſsioners of <hi>Scotland</hi> preſented to his Majeſty a<g ref="char:EOLhyphen"/>gainſt the <hi>4.</hi> Bills delivered <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o his Majeſty by the Parliaments Commiſsioners.</head>
+            <p>THere is nothing which we have more conſtantly endeavou<g ref="char:EOLhyphen"/>red, &amp; doe more earneſtly deſire, then a good agreement and happy peace betweene your Majeſty and your Parliaments of of both Kingdoms, neither have we left any meanes unaſſayed that which united Councells with the Houſes of Parliament of England by making joynt applycation to your Majeſtie, there might be a compoſure of all differences. But the new Propoſiti<g ref="char:EOLhyphen"/>ons communicated to us by the Houſes, and the Bills therewith preſented to your Majeſtie, are ſo preiuditiall to Religion, the Crowne and the Vnion and Intereſt of the Kingdomes, and ſo farre different from the former proceedings and engagements betwixt the Kingdomes, as we cannot concurre therein, T<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ere<g ref="char:EOLhyphen"/>fore we do in the name of the Kingdome of <hi>Scotland</hi> diſſent from theſe Propoſitions and Bills now tendred to your Majeſty.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Landerdaile, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>. Erskin,</hi>
+                     </item>
+                     <item>
+                        <hi>Hen. Kennedy. Ro. Barkley</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="text">
+            <p>The Parliaments Commiſsioners and alſo the Commiſſioners for <hi>Scotland</hi> are returned back from his Majeſty to Lon<g ref="char:EOLhyphen"/>don, But bring no ſafisfactorie anſwer to the 4. Bills preſe<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed to his Majeſty.</p>
+            <p>But on the contrary information was given to the Parliament and Army of a new deſigne to remove the Kings perſon from the <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e of Wight [we know not whether] and this deſign was put in execution upon the Commiſſioners leaving his Majeſty, and a Mutiny put in practice the ſame day to ſeize on <hi>Carisbrook</hi> caſt<g ref="char:EOLhyphen"/>le and his Majeſtie, but was prevented, the Mutiny allayed, and the chief actors now in cuſtody by Col, <hi>Hammond.</hi>
+            </p>
+            <p>The Parliament upon full information and debate hereupon, have ſent Orders to the Generall and the Governour of the Jſle of <hi>Wight</hi> to ſecure his Majeſties perſon where he now is in <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<g ref="char:EOLhyphen"/>risbrook</hi> Caſtle which is accordingly done, and ſome other chief Officers of the army ſent thither to aſsiſt the Governour, and his <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>jeſty is not gone thence (as ſome reported) but is aſſuredly at <hi>Carisbro<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> Caſtle.</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>January</hi> 1. 1647.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>Imprimatur</p>
+            <closer>
+               <signed>Gilb<hi rend="sup">t</hi>. Malbot.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS</trailer>
+      </back>
+   </text>
+</TEI>
